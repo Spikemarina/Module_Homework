@@ -18,7 +18,7 @@ namespace Module_Homework
             GetMobile();
 
             //4HW
-            //GetWordCheck();
+            GetWordCheck();
 
 
 
