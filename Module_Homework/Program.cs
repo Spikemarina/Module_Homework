@@ -15,7 +15,7 @@ namespace Module_Homework
             // ReturnOddEven();
 
             //3HW
-            //GetMobile();
+            GetMobile();
 
             //4HW
             GetWordCheck();
